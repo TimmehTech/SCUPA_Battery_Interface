@@ -1,0 +1,10 @@
+﻿Part,Manufacturer,Part Number,Quantity,Price ($),Footprint (mm²),Description
+Rfbb,Vishay-Dale,CRCW040210K0FKED,1,0.01,3,Resistance: 10 kΩ  Tolerance: 1.0%  Power: 63 mW  
+Cf,MuRata,GRM1555C1H102JA01J,1,0.01,3,Cap: 1 nF  Total Derated Cap: 1 nF  VDC: 50 V  ESR: 0 Ω  Package: 0402  
+Rfbt,Vishay-Dale,CRCW040249K9FKED,1,0.01,3,Resistance: 49.9 kΩ  Tolerance: 1.0%  Power: 63 mW  
+D1,Fairchild Semiconductor,SS24FL,1,0.05,11.7,Type: Schottky  VRRM: 40 V  Io: 2 A  
+Renable,Vishay-Dale,CRCW040210K0FKED,1,0.01,3,Resistance: 10 kΩ  Tolerance: 1.0%  Power: 63 mW  
+Cout,Kemet,C0805C106K8PACTU,3,0.03,6.75,Cap: 10 µF  Total Derated Cap: 13 µF  VDC: 10 V  ESR: 3 mΩ  Package: 0805  
+Cin,Kemet,C0805C106K8PACTU,1,0.03,6.75,Cap: 10 µF  Total Derated Cap: 7.1 µF  VDC: 10 V  ESR: 3 mΩ  Package: 0805  
+U1,Texas Instruments,LMR62421XSD/NOPB,1,0.66,16,
+L1,NIC Components,NPI54C5R6MTRF,1,0.1184,60.75,L: 5.6 µH  DCR: 70 mΩ  IDC: 2.4 A  
